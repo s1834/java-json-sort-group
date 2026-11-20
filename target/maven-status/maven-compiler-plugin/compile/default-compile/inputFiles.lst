@@ -1,0 +1,11 @@
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/AssignmentApplication.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/controller/DatasetController.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/dto/ErrorResponse.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/dto/InsertRecordResponse.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/dto/QueryResponse.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/entity/DatasetRecord.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/exception/BadRequestException.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/exception/GlobalExceptionHandler.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/exception/ResourceNotFoundException.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/repository/DatasetRecordRepository.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/service/DatasetService.java
