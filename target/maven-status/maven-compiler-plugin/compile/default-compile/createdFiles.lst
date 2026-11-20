@@ -4,10 +4,10 @@ com/example/assignment/service/DatasetService$1.class
 com/example/assignment/controller/DatasetController.class
 com/example/assignment/dto/QueryResponse.class
 com/example/assignment/dto/InsertRecordResponse.class
+com/example/assignment/config/DatasourceUrlEnvironmentPostProcessor.class
 com/example/assignment/exception/GlobalExceptionHandler.class
 com/example/assignment/AssignmentApplication.class
 com/example/assignment/service/DatasetService.class
 com/example/assignment/repository/DatasetRecordRepository.class
 com/example/assignment/exception/BadRequestException.class
 com/example/assignment/entity/DatasetRecord.class
-com/example/assignment/config/DatasourceUrlStartupDiagnostic.class
