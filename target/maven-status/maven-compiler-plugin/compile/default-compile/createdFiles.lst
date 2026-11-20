@@ -10,3 +10,4 @@ com/example/assignment/service/DatasetService.class
 com/example/assignment/repository/DatasetRecordRepository.class
 com/example/assignment/exception/BadRequestException.class
 com/example/assignment/entity/DatasetRecord.class
+com/example/assignment/config/DatasourceUrlStartupDiagnostic.class

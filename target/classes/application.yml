@@ -1,8 +1,7 @@
 spring:
   datasource:
-    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/datasetdb}
-    username: ${SPRING_DATASOURCE_USERNAME:}
-    password: ${SPRING_DATASOURCE_PASSWORD:}
+    # SPRING_DATASOURCE_URL/USERNAME/PASSWORD bind directly through Spring Boot's environment binding.
+    url: jdbc:postgresql://localhost:5432/datasetdb
   jpa:
     hibernate:
       ddl-auto: update

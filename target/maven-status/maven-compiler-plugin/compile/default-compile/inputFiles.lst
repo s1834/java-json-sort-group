@@ -1,4 +1,5 @@
 /Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/AssignmentApplication.java
+/Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/config/DatasourceUrlStartupDiagnostic.java
 /Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/controller/DatasetController.java
 /Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/dto/ErrorResponse.java
 /Users/s1834/Desktop/freightfox-assignment/src/main/java/com/example/assignment/dto/InsertRecordResponse.java
