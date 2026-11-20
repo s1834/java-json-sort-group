@@ -15,12 +15,10 @@ Install Java 17 or newer, Maven 3.8+, and Docker (or a local PostgreSQL 14+ inst
 
 | Variable | Default | Purpose |
 | --- | --- | --- |
-| `SPRING_DATASOURCE_URL` | `jdbc:postgresql://localhost:5432/datasetdb` | JDBC connection URL |
+| `SPRING_DATASOURCE_URL` | `jdbc:postgresql://localhost:5432/datasetdb` | JDBC connection URL; on Render use the form `jdbc:postgresql://HOST:PORT/DATABASE` |
 | `SPRING_DATASOURCE_USERNAME` | (empty) | Database user |
 | `SPRING_DATASOURCE_PASSWORD` | (empty) | Database password |
 | `PORT` | `8080` | HTTP port; Render supplies this automatically |
-
-For backward compatibility, `DATABASE_URL`, `DATABASE_USERNAME`, and `DATABASE_PASSWORD` are accepted when their corresponding `SPRING_DATASOURCE_*` variable is unset.
 
 Start PostgreSQL locally using Docker Compose:
 
